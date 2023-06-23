@@ -1,1 +1,1 @@
-# CAMELS-CNN-Interpretability-using-CKA
+# Interpretability of CNN models using CKA
